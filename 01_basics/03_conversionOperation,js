@@ -1,0 +1,18 @@
+let score ="33njkbk"
+
+console.log(typeof score)
+console.log(typeof(score))
+
+let valueInNumber = Number(score)
+console.log(typeof valueInNumber)
+console.log(valueInNumber)
+
+
+// "33" -> 33
+// "33qbs" -> NAN
+// true -> 1
+
+
+let bol = "faveav"
+let  bool = Boolean(bol)
+console.log(bool)
